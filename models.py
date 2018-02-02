@@ -54,6 +54,8 @@ class Place(object):
     g.close()
 
     data = json.loads(results)
+
+    print('fire')
     
     places = []
     for place in data['query']['geosearch']:
