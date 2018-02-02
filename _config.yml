@@ -1,7 +1,7 @@
 # Setup
 title:        "How to get on the web: Hack the TriCo 2018"
 tagline:      A responsive theme for your project on GitHub Pages
-baseurl:      ""
+baseurl:      "/learning-flask"
 paginate:     1
 locale:       "en"
 
